@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment
+
+Deployment in the decentralized network via fleek.co. <br />
+[https://gentle-hat-5203.on.fleek.co/](https://gentle-hat-5203.on.fleek.co/)
+
 ## Available Scripts
 
 In the project directory, you can run:
